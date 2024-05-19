@@ -1,1 +1,2 @@
-# BattleShip
+BattleShip in Python
+
