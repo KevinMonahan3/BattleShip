@@ -1,5 +1,7 @@
 # BattleShip in Python
 
+![Battleship](battleship.jpg)
+
 This Project is a command-line interface game simulating the boardgame of Battleship. I made this project during my 6th year of secondary school as my Leaving cert project.
 
 # Tech Stack
