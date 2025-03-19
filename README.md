@@ -1,6 +1,8 @@
 # BattleShip in Python
 
-![Battleship](battleship.jpg)
+<p align="center">
+  <img width="460" height="300" src="battleship.jpg">
+</p>
 
 This Project is a command-line interface game simulating the boardgame of Battleship. I made this project during my 6th year of secondary school as my Leaving cert project.
 
